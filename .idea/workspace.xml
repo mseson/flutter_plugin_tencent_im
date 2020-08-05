@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29dbd049-9e7b-4118-a20c-2257788fe743" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/flutter_tim-0.3.31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle____libs_MiPush_SDK_Client_3_6_18_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle____libs_pushsdk_v2_3_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_android_support_support_annotations_27_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/libraries/Gradle__com_tencent_imsdk_imsdk_4_5_55_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/modules/flutter_tim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/dm/flutter_tim/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/base/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/game/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/hwid/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/openid/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/pay/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/push/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/huawei/android/hms/sns/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/meizu/cloud/pushinternal/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/not_namespaced_r_class_sources/debug/generateDebugRFile/out/com/tencent/imsdk/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/generated/source/buildConfig/debug/com/dm/flutter_tim/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/output.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/intermediates/symbols/debug/R.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/flutter_tim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/flutter_tim_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/MiPush_SDK_Client_3_6_18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/libs/pushsdk_v2.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/flutter_tim/FlutterTimPlugin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/HUAWEIPushReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/MEIZUPushReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/MyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/ThirdPushTokenMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/VIVOPushMessageReceiverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/dm/push/XiaomiMsgReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/HMSAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/ActivityMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/ApiClientMgr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/BaseAgentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/BaseApiAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/CallbackCodeRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/CallbackResultRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/CheckUpdateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/EmptyConnectCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/HMSAgentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/HMSAgentLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/IActivityDestroyedCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/IActivityPauseCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/IActivityResumeCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/IClientConnectCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/INoProguard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/IOUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/StrUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/ThreadUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/UIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/handler/CheckUpdateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/handler/ConnectHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/handler/ICallbackCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/common/handler/ICallbackResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/FloatWindowApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/GameLoginSignUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/GetCertificationInfoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/GetCertificationIntentApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/GetTemperatureApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/LoginApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/RegisterHardwareCapabilityApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/SavePlayerInfoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/UpdateGameInfoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/checksignutil/Base64Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/checksignutil/RSAUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/GetCertificationInfoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/GetCertificationIntentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/GetTemperatureHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/ICheckLoginSignHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/LoginHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/RegisterHardwareCapabilityHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/game/handler/SaveInfoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/CheckSignInApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/HMSSignInAgentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/SignInApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/SignOutApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/handler/SignInHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/hwid/handler/SignOutHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/GetPayOrderApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/GetProductDetailsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/GetPurchaseInfoApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/HMSPMSPayAgentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/HMSPayAgentActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/PayApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/PaySignUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/ProductPayApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/handler/GetOrderHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/handler/GetProductDetailsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/handler/GetPurchaseInfoHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/handler/PayHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/pay/handler/ProductPayHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/DeleteTokenApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/EnableReceiveNormalMsgApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/EnableReceiveNotifyMsgApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/GetPushStateApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/GetTokenApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/QueryAgreementApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/DeleteTokenHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/EnableReceiveNormalMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/EnableReceiveNotifyMsgHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/GetPushStateHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/GetTokenHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/push/handler/QueryAgreementHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/sns/GetMsgSendIntentApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/sns/GetUiIntentApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/sns/Handler/GetMsgSendIntentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/src/main/java/com/huawei/android/hms/agent/sns/Handler/GetUiIntentHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.flutter-plugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/.packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/com/dm/flutter_tim_example/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/flutter_tim_example_android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/local.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/flutter_tim_example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/AssetManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/FontManifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/isolate_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/kernel_blob.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/App.framework/flutter_assets/vm_snapshot_data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Flutter" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/Flutter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Flutter.framework/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJExtensionConst.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJFoundation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJPropertyKey.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/MJPropertyType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/NSObject+MJClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/NSObject+MJCoding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/NSObject+MJKeyValue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/NSObject+MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/MJExtension/NSString+MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/YYModel/NSObject+YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/YYModel/YYClassInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/YYModel/YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/flutter_tim/DimModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Private/flutter_tim/FlutterTimPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJExtensionConst.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJFoundation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJPropertyKey.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/MJPropertyType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/NSObject+MJClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/NSObject+MJCoding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/NSObject+MJKeyValue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/NSObject+MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/MJExtension/NSString+MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/YYModel/NSObject+YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/YYModel/YYClassInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/YYModel/YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/flutter_tim/DimModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Headers/Public/flutter_tim/FlutterTimPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Local Podspecs/Flutter.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Local Podspecs/flutter_tim.podspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJExtensionConst.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJExtensionConst.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJFoundation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJFoundation.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJProperty.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJPropertyKey.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJPropertyKey.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJPropertyType.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/MJPropertyType.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJClass.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJClass.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJCoding.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJCoding.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJProperty.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSObject+MJProperty.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSString+MJExtension.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/MJExtension/NSString+MJExtension.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/MJExtension/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/Flutter.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/MJExtension.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/Pods-Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/TXIMSDK_iOS.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/YYModel.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/flutter_tim.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Pods.xcodeproj/xcuserdata/frankkong.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/IMGroupExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/IMMessageExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/ImSDK.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMCallback.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMComm+Group.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMComm+MsgExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMComm.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMConversation+MsgExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMConversation.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMErrorCode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMFriendshipDefine.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMFriendshipManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMGroupManager+Ext.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMGroupManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMManager+MsgExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMMessage+MsgExt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Headers/TIMMessage.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/ImSDK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/TXIMSDK_iOS/ImSDK.framework/Modules/module.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Flutter/Flutter.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/MJExtension/MJExtension-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/MJExtension/MJExtension-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/MJExtension/MJExtension.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/Pods-Runner/Pods-Runner.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/TXIMSDK_iOS/TXIMSDK_iOS.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/YYModel/YYModel-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/YYModel/YYModel-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/YYModel/YYModel.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/flutter_tim/flutter_tim-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/flutter_tim/flutter_tim-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/Target Support Files/flutter_tim/flutter_tim.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/YYModel/NSObject+YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/YYModel/NSObject+YYModel.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/YYModel/YYClassInfo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/YYModel/YYClassInfo.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Pods/YYModel/YYModel/YYModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcuserdata/frankkong.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner.xcworkspace/xcuserdata/frankkong.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/ServiceDefinitions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flutter_tim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/DimModel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/DimModel.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterTimPlugin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Classes/FlutterTimPlugin.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/flutter_tim.podspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/flutter_tim.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/flutter_tim.dart">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="CatdeaLogs" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="flutter_tim-0.3.31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_tim-0.3.31" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_tim-0.3.31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_tim-0.3.31" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flutter_tim-0.3.31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_tim-0.3.31" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29dbd049-9e7b-4118-a20c-2257788fe743" name="Default Changelist" comment="" />
+      <created>1596630194077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596630194077</updated>
+      <workItem from="1596630196220" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="594000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Captures" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.32934782" />
+      <window_info anchor="bottom" id="Catdea" />
+      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" weight="0.32934782" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Flutter Performance" order="12" side_tool="true" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/flutter_tim.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.imsdk:imsdk:4.5.55@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imsdk-4.5.55.aar/97ee99847c7ffe256b7469519535668f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imsdk-4.5.55.aar/97ee99847c7ffe256b7469519535668f/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/imsdk-4.5.55.aar/97ee99847c7ffe256b7469519535668f/jars/libs/mobilepb.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.imsdk/imsdk/4.5.55/74442edf80a5f4decde07acceb87443158b6d74c/imsdk-4.5.55-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

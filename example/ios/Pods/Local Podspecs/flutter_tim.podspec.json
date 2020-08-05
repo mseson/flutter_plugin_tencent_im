@@ -1,0 +1,35 @@
+{
+  "name": "flutter_tim",
+  "version": "0.2.2",
+  "summary": "A Flutter IM plugin.",
+  "description": "A new Flutter IM plugin.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "YYModel": [
+
+    ],
+    "TXIMSDK_iOS": [
+
+    ],
+    "MJExtension": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

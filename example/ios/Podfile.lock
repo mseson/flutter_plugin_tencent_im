@@ -1,0 +1,40 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_tim (0.2.2):
+    - Flutter
+    - MJExtension
+    - TXIMSDK_iOS
+    - YYModel
+  - MJExtension (3.2.1)
+  - TXIMSDK_iOS (4.5.55)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_tim (from `.symlinks/plugins/flutter_tim/ios`)
+  - MJExtension
+  - TXIMSDK_iOS
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MJExtension
+    - TXIMSDK_iOS
+    - YYModel
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_tim:
+    :path: ".symlinks/plugins/flutter_tim/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_tim: 9cdfb769949e1b46349e56f2e62cc5bb461178fb
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+  TXIMSDK_iOS: add67201c64d0a8668e4bfab4d21f83e8075d00a
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 851aa0acce1644b5f087e4773c135971bffc92b0
+
+COCOAPODS: 1.7.5
