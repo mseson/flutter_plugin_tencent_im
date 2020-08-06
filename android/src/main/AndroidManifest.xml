@@ -15,36 +15,36 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.VIBRATE"/>
-    <!-- ********小米推送权限设置start******** -->
-    <permission
-        android:name="com.damei.flutter_erp.permission.MIPUSH_RECEIVE"
-        android:protectionLevel="signature" />
-    <uses-permission android:name="com.damei.flutter_erp.permission.MIPUSH_RECEIVE" />
-    <!-- ********小米推送权限设置end******** -->
-    <!-- ********华为推送权限设置start******** -->
-    <permission
-        android:name="com.damei.flutter_erp.permission.PROCESS_PUSH_MSG"
-        android:protectionLevel="signatureOrSystem"/>
-    <uses-permission android:name="com.damei.flutter_erp.permission.PROCESS_PUSH_MSG" />
-    <!--如果是Android 8.0，应用编译配置的 targetSdkVersion>=26，请务必添加以下权限 -->
-    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
-    <!-- ********华为推送权限设置end******** -->
+<!--    &lt;!&ndash; ********小米推送权限设置start******** &ndash;&gt;-->
+<!--    <permission-->
+<!--        android:name="com.damei.flutter_erp.permission.MIPUSH_RECEIVE"-->
+<!--        android:protectionLevel="signature" />-->
+<!--    <uses-permission android:name="com.damei.flutter_erp.permission.MIPUSH_RECEIVE" />-->
+<!--    &lt;!&ndash; ********小米推送权限设置end******** &ndash;&gt;-->
+<!--    &lt;!&ndash; ********华为推送权限设置start******** &ndash;&gt;-->
+<!--    <permission-->
+<!--        android:name="com.damei.flutter_erp.permission.PROCESS_PUSH_MSG"-->
+<!--        android:protectionLevel="signatureOrSystem"/>-->
+<!--    <uses-permission android:name="com.damei.flutter_erp.permission.PROCESS_PUSH_MSG" />-->
+<!--    &lt;!&ndash;如果是Android 8.0，应用编译配置的 targetSdkVersion>=26，请务必添加以下权限 &ndash;&gt;-->
+<!--    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />-->
+<!--    &lt;!&ndash; ********华为推送权限设置end******** &ndash;&gt;-->
 
-    <!-- ********魅族推送权限设置 start******** -->
-     <!--兼容 flyme5.0 以下版本，魅族内部集成 pushSDK 必填，不然无法收到消息-->
-    <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE"></uses-permission>
-    <permission
-        android:name="com.damei.flutter_erp.push.permission.MESSAGE"
-        android:protectionLevel="signature"/>
-    <uses-permission android:name="com.damei.flutter_erp.push.permission.MESSAGE"></uses-permission>
+<!--    &lt;!&ndash; ********魅族推送权限设置 start******** &ndash;&gt;-->
+<!--     &lt;!&ndash;兼容 flyme5.0 以下版本，魅族内部集成 pushSDK 必填，不然无法收到消息&ndash;&gt;-->
+<!--    <uses-permission android:name="com.meizu.flyme.push.permission.RECEIVE"></uses-permission>-->
+<!--    <permission-->
+<!--        android:name="com.damei.flutter_erp.push.permission.MESSAGE"-->
+<!--        android:protectionLevel="signature"/>-->
+<!--    <uses-permission android:name="com.damei.flutter_erp.push.permission.MESSAGE"></uses-permission>-->
 
-    <!--&lt;!&ndash;  兼容 flyme3.0 配置权限&ndash;&gt;-->
-    <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />
-    <permission
-        android:name="com.damei.flutter_erp.permission.C2D_MESSAGE"
-        android:protectionLevel="signature"></permission>
-    <uses-permission android:name="com.damei.flutter_erp.permission.C2D_MESSAGE"/>
-    <!-- ********魅族推送权限设置 end******** -->
+<!--    &lt;!&ndash;&lt;!&ndash;  兼容 flyme3.0 配置权限&ndash;&gt;&ndash;&gt;-->
+<!--    <uses-permission android:name="com.meizu.c2dm.permission.RECEIVE" />-->
+<!--    <permission-->
+<!--        android:name="com.damei.flutter_erp.permission.C2D_MESSAGE"-->
+<!--        android:protectionLevel="signature"></permission>-->
+<!--    <uses-permission android:name="com.damei.flutter_erp.permission.C2D_MESSAGE"/>-->
+<!--    &lt;!&ndash; ********魅族推送权限设置 end******** &ndash;&gt;-->
 
 
     <application

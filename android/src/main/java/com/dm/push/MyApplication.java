@@ -38,27 +38,27 @@ public class MyApplication extends FlutterApplication{
                 }
             });
 
-            //华为
-            if(IMFunc.isBrandHuawei()){
-                // 华为离线推送
-               HMSAgent.init(this);
-            }
-            //小米离线推送
-            if(IMFunc.isBrandXiaoMi()){
-                MiPushClient.registerPush(this, Constants.XM_PUSH_APPID, Constants.XM_PUSH_APPKEY);
-
-            }
-            //VIVO
-            if(IMFunc.isBrandVivo()){
-                // vivo 离线推送
-                PushClient.getInstance(getApplicationContext()).initialize();
-            }
-
-            // 魅族
-            if(MzSystemUtils.isBrandMeizu(this)){
-                // 魅族离线推送
-                PushManager.register(this, Constants.MZ_PUSH_APPID, Constants.MZ_PUSH_APPKEY);
-            }
+//            //华为
+//            if(IMFunc.isBrandHuawei()){
+//                // 华为离线推送
+//               HMSAgent.init(this);
+//            }
+//            //小米离线推送
+//            if(IMFunc.isBrandXiaoMi()){
+//                MiPushClient.registerPush(this, Constants.XM_PUSH_APPID, Constants.XM_PUSH_APPKEY);
+//
+//            }
+//            //VIVO
+//            if(IMFunc.isBrandVivo()){
+//                // vivo 离线推送
+//                PushClient.getInstance(getApplicationContext()).initialize();
+//            }
+//
+//            // 魅族
+//            if(MzSystemUtils.isBrandMeizu(this)){
+//                // 魅族离线推送
+//                PushManager.register(this, Constants.MZ_PUSH_APPID, Constants.MZ_PUSH_APPKEY);
+//            }
         }
 
 
