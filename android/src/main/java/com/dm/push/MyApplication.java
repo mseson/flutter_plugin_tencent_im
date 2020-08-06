@@ -4,16 +4,16 @@ package com.dm.push;
 import android.util.Log;
 
 import com.dm.flutter_tim.R;
-import com.huawei.android.hms.agent.HMSAgent;
-import com.meizu.cloud.pushsdk.PushManager;
-import com.meizu.cloud.pushsdk.util.MzSystemUtils;
+//import com.huawei.android.hms.agent.HMSAgent;
+//import com.meizu.cloud.pushsdk.PushManager;
+//import com.meizu.cloud.pushsdk.util.MzSystemUtils;
 import com.tencent.imsdk.TIMManager;
 import com.tencent.imsdk.TIMOfflinePushListener;
 import com.tencent.imsdk.TIMOfflinePushNotification;
 import com.tencent.imsdk.session.SessionWrapper;
 import com.tencent.imsdk.utils.IMFunc;
-import com.vivo.push.PushClient;
-import com.xiaomi.mipush.sdk.MiPushClient;
+//import com.vivo.push.PushClient;
+//import com.xiaomi.mipush.sdk.MiPushClient;
 
 
 

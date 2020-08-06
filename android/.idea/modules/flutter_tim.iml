@@ -90,8 +90,6 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform (2)" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: ./libs/MiPush_SDK_Client_3_6_18.jar" level="project" />
-    <orderEntry type="library" name="Gradle: ./libs/pushsdk_v2.3.4.jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:27.1.1@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.tencent.imsdk:imsdk:4.5.55@aar" level="project" />
