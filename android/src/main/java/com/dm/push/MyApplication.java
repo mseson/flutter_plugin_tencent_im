@@ -34,7 +34,7 @@ public class MyApplication extends FlutterApplication{
                     Log.d("MyApplication", "recv offline push");
 
                     // 这里的 doNotify 是 IM SDK 内置的通知栏提醒，应用也可以选择自己利用回调参数 notification 来构造自己的通知栏提醒
-                     notification.doNotify(getApplicationContext(), R.drawable.c_buoycircle_icon);
+//                     notification.doNotify(getApplicationContext(), R.drawable.c_buoycircle_icon);
                 }
             });
 

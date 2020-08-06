@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7b2fd08-c3b5-4323-8f53-9a3723150240" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/beamePluginConfig1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/flutter_tim-0.3.31.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/flutter_tim-0.3.31.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dm/flutter_tim/FlutterTimPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dm/flutter_tim/FlutterTimPlugin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/dm/push/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dm/push/MyApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
