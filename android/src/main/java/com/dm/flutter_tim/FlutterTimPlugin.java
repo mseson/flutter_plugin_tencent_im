@@ -224,38 +224,38 @@ public class FlutterTimPlugin implements MethodCallHandler {
 
 
       }
-      if (IMFunc.isBrandVivo()) {
-        // vivo 离线推送
-        PushClient.getInstance(registrar.context()).turnOnPush(new IPushActionListener() {
-          @Override
-          public void onStateChanged(int state) {
-            if (state == 0) {
-              String regId = PushClient.getInstance(registrar.context()).getRegId();
-              Log.d(TAG, "vivopush open vivo push success regId = " + regId);
-              ThirdPushTokenMgr.getInstance().setThirdPushToken(regId);
-              ThirdPushTokenMgr.getInstance().setPushTokenToTIM();
-            } else {
-              // 根据 vivo 推送文档说明，state = 101表示该 vivo 机型或者版本不支持 vivo 推送，详情请参考 vivo 推送常见问题汇总
-              Log.d(TAG, "vivopush open vivo push fail state = " + state);
-            }
-          }
-        });
-      }
-      if (IMFunc.isBrandHuawei()) {
-        // 华为离线推送
-        HMSAgent.connect(registrar.activity(), new ConnectHandler() {
-          @Override
-          public void onConnect(int rst) {
-            Log.d(TAG, "huawei push HMS connect end:" + rst);
-          }
-        });
-        HMSAgent.Push.getToken(new GetTokenHandler() {
-          @Override
-          public void onResult(int rtnCode) {
-            Log.d("huaweipush", "get token: end" + rtnCode);
-          }
-        });
-      }
+//      if (IMFunc.isBrandVivo()) {
+//        // vivo 离线推送
+//        PushClient.getInstance(registrar.context()).turnOnPush(new IPushActionListener() {
+//          @Override
+//          public void onStateChanged(int state) {
+//            if (state == 0) {
+//              String regId = PushClient.getInstance(registrar.context()).getRegId();
+//              Log.d(TAG, "vivopush open vivo push success regId = " + regId);
+//              ThirdPushTokenMgr.getInstance().setThirdPushToken(regId);
+//              ThirdPushTokenMgr.getInstance().setPushTokenToTIM();
+//            } else {
+//              // 根据 vivo 推送文档说明，state = 101表示该 vivo 机型或者版本不支持 vivo 推送，详情请参考 vivo 推送常见问题汇总
+//              Log.d(TAG, "vivopush open vivo push fail state = " + state);
+//            }
+//          }
+//        });
+//      }
+//      if (IMFunc.isBrandHuawei()) {
+//        // 华为离线推送
+//        HMSAgent.connect(registrar.activity(), new ConnectHandler() {
+//          @Override
+//          public void onConnect(int rst) {
+//            Log.d(TAG, "huawei push HMS connect end:" + rst);
+//          }
+//        });
+//        HMSAgent.Push.getToken(new GetTokenHandler() {
+//          @Override
+//          public void onResult(int rtnCode) {
+//            Log.d("huaweipush", "get token: end" + rtnCode);
+//          }
+//        });
+//      }
 
 
       // identifier为用户名，userSig 为用户登录凭证
